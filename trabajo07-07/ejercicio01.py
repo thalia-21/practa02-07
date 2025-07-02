@@ -1,0 +1,1 @@
+print("ejercicio 01 de lunes 01")
